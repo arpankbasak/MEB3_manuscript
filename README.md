@@ -1,5 +1,5 @@
 # Arabidopsis MEB3 functions as a vacuolar metal transporter to regulate iron accumulation in roots
-DOI: (10.3389/fpls.2025.1517144)[https://doi.org/10.3389/fpls.2025.1517144]
+DOI: [10.3389/fpls.2025.1517144](https://doi.org/10.3389/fpls.2025.1517144)
 
 The Repository contents the data for Phenotype measurements for the article. 
 
