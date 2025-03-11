@@ -1,2 +1,8 @@
-# MEB3_manuscript
-The Repository contents the data for Phenotype measurements for the article
+# Arabidopsis MEB3 functions as a vacuolar metal transporter to regulate iron accumulation in roots
+DOI: (10.3389/fpls.2025.1517144)[https://doi.org/10.3389/fpls.2025.1517144]
+
+The Repository contents the data for Phenotype measurements for the article. 
+
+## Abstract
+
+Iron is an essential nutrient for plant photosynthesis and development, but excess iron leads to stress. After absorption from the soil, plants store iron in roots and distribute it to shoots via long-distance transport. The vacuole is involved in iron storage and the maintenance of cellular iron homeostasis, and vacuolar iron transporter (VIT) family proteins have been identified as plant vacuolar iron transporters. However, the contribution of vacuolar iron transporters to overall iron homeostasis in plants is not fully understood. Here, we show that MEMBRANE PROTEIN OF ER BODY 3 (MEB3), a VIT family member, functions as a vacuolar metal transporter for iron distribution in Arabidopsis thaliana. Heterologous expression of Arabidopsis MEB3 in yeast vacuolar iron or zinc transporter mutants restored the iron- and zinc-resistance phenotypes of the respective mutants, indicating that MEB3 regulates iron and zinc transport. In Arabidopsis, MEB3 was expressed in almost all tissues, albeit to higher levels in roots and seedlings, and MEB3 protein localized to the tonoplast. Iron but not zinc levels were reduced in meb3 knockout mutant roots, suggesting that the knockout reduced iron storage capacity in roots. At high iron concentration, meb3 mutants accumulated more iron in shoots and less iron in roots than the wild type, indicating impairment of proper iron distribution in meb3 mutants. These findings demonstrate that MEB3 is a vacuolar transporter involved in the homeostasis of iron and other metals in plants.
