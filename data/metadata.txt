@@ -1,0 +1,47 @@
+ID	SampleID	Experiment	dpi	Genotype	Condition	Replicate	Description
+10	H011	H	23	Col-0	mock	1	
+8	H012	H	23	Col-0	mock	2	
+1	H041	H	23	irt1-1	mock	1	
+2	H021	H	23	meb3-1	mock	1	
+13	H022	H	23	meb3-1	mock	2	
+7	H031	H	23	meb3-2	mock	1	
+5	H032	H	23	meb3-2	mock	2	
+14	H111	H	23	Col-0	no Fe2+	1	
+12	H112	H	23	Col-0	no Fe2+	2	
+3	H141	H	23	irt1-1	no Fe2+	1	
+6	H121	H	23	meb3-1	no Fe2+	1	
+4	H122	H	23	meb3-1	no Fe2+	2	
+11	H131	H	23	meb3-2	no Fe2+	1	
+9	H132	H	23	meb3-2	no Fe2+	2	
+18	K13	K	21	Col-0	mock	2	
+16	K5	K	21	Col-0	mock	1	
+30	K16	K	21	irt1-1	mock	1	
+24	K8	K	21	irt1-1	mock	2	
+29	K15	K	21	meb3-1	mock	2	
+23	K7	K	21	meb3-1	mock	1	
+28	K14	K	21	meb3-2	mock	2	
+22	K6	K	21	meb3-2	mock	1	
+15	K2	K	21	Col-0	no Fe2+	1	
+17	K9	K	21	Col-0	no Fe2+	2	
+27	K12	K	21	irt1-1	no Fe2+	1	
+20	K4	K	21	irt1-1	no Fe2+	2	
+19	K1	K	21	meb3-1	no Fe2+	1	
+26	K11	K	21	meb3-1	no Fe2+	2	
+25	K10	K	21	meb3-2	no Fe2+	2	
+21	K3	K	21	meb3-2	no Fe2+	1	
+31	L611	L	21	Col-0	no Fe2+	1	
+32	L621	L	21	Col-0	no Fe2+	2	
+33	L911	L	21	irt1-1	no Fe2+	1	
+34	L921	L	21	irt1-1	no Fe2+	2	
+35	L721	L	21	meb3-1	no Fe2+	1	
+36	L711	L	21	meb3-1	no Fe2+	2	
+37	L821	L	21	meb3-2	no Fe2+	1	
+38	L811	L	21	meb3-2	no Fe2+	2
+39	L610	L	21	Col-0	mock	1	
+40	L620	L	21	Col-0	mock	2	
+41	L910	L	21	irt1-1	mock	1	
+42	L920	L	21	irt1-1	mock	2	
+43	L720	L	21	meb3-1	mock	1	
+44	L710	L	21	meb3-1	mock	2	
+45	L820	L	21	meb3-2	mock	1	
+46	L810	L	21	meb3-2	mock	2	
